@@ -1,0 +1,7 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\bin\Debug\Client2.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\bin\Debug\Client2.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\bin\Debug\Client2.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\obj\Debug\EchoClient.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\obj\Debug\Client2.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Client2\Client2\obj\Debug\Client2.pdb

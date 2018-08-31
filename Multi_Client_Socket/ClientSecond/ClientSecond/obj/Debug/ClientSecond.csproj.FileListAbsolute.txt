@@ -1,0 +1,7 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\bin\Debug\ClientSecond.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\bin\Debug\ClientSecond.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\bin\Debug\ClientSecond.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\obj\Debug\ClientSecond.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\obj\Debug\ClientSecond.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\obj\Debug\ClientSecond.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\ClientSecond\ClientSecond\obj\Debug\ClientSecond.pdb

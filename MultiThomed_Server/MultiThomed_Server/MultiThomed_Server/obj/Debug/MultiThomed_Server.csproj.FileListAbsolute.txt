@@ -1,0 +1,7 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\bin\Debug\MultiThomed_Server.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\bin\Debug\MultiThomed_Server.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\bin\Debug\MultiThomed_Server.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\obj\Debug\MultiThomed_Server.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\obj\Debug\MultiThomed_Server.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\obj\Debug\MultiThomed_Server.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\MultiThomed_Server\MultiThomed_Server\obj\Debug\MultiThomed_Server.pdb

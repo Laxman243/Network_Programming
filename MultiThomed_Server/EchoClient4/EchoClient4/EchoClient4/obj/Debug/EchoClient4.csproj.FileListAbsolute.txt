@@ -1,0 +1,13 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\bin\Debug\EchoClient4.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\MultiThomed_Server\EchoClient4\EchoClient4\EchoClient4\obj\Debug\EchoClient4.pdb

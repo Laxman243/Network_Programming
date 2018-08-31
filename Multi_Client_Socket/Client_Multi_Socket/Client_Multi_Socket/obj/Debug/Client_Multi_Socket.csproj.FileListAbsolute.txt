@@ -1,0 +1,7 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\bin\Debug\Client_Multi_Socket.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\bin\Debug\Client_Multi_Socket.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\bin\Debug\Client_Multi_Socket.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\obj\Debug\Client_Multi_Socket.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\obj\Debug\Client_Multi_Socket.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\obj\Debug\Client_Multi_Socket.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\Multi_Client_Socket\Client_Multi_Socket\Client_Multi_Socket\obj\Debug\Client_Multi_Socket.pdb

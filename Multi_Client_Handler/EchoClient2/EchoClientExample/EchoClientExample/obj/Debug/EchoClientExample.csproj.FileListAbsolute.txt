@@ -1,0 +1,6 @@
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\bin\Debug\EchoClientExample.exe.config
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\bin\Debug\EchoClientExample.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\bin\Debug\EchoClientExample.pdb
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\obj\Debug\EchoClientExample.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\obj\Debug\EchoClientExample.exe
+F:\myC#.net_Progrmas\ConsoleApp2\ConsoleApp2\NetworkProgramming\EchoClient2\EchoClientExample\EchoClientExample\obj\Debug\EchoClientExample.pdb
